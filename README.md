@@ -1,4 +1,4 @@
-```md
+
 # 💻 Algorithmes en langage C — Manipulation de tableaux
 
 ## 📌 Présentation du projet
