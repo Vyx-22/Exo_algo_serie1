@@ -129,4 +129,4 @@ gcc calcul_moyenne.c -o calcul_moyenne
 ## 👤 Auteur
  
 Vyx
-```
+
